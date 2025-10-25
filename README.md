@@ -1,6 +1,4 @@
-Here's a beautified version of your README, using enhanced Markdown formatting, code blocks, and emojis for better readability.
 
------
 
 # ExpenseTracker (FastMCP) 💸
 
